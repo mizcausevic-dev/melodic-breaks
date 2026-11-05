@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+mb01,Coastal Arc,pack-local equal-tempered pitch collection,D,130,4/4,480,32,61440,midi/mb01-coastal-arc/mb01-coastal-arc-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mb02,Broken Horizon,pack-local equal-tempered pitch collection,F,130,4/4,480,32,61440,midi/mb02-broken-horizon/mb02-broken-horizon-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mb03,Glass Current,pack-local equal-tempered pitch collection,G#,130,4/4,480,32,61440,midi/mb03-glass-current/mb03-glass-current-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mb04,Open Water,pack-local equal-tempered pitch collection,D#,130,4/4,480,32,61440,midi/mb04-open-water/mb04-open-water-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/melodic-breaks-simple-synth-preview.mp3",
+  "preview_sha256": "2bb14631d814fbb8e575c4ace46f39597f2cec01a31de11cc1a6bdbe23b3ab3f",
+  "source_midi_path": "midi/mb01-coastal-arc/mb01-coastal-arc-combined.mid",
+  "source_midi_sha256": "31aa282ce4eebad6f567a0494c8eb0ff754e184e3e24782b3e9f3a4ee8a48e41",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "mb01",
+    "start_seconds": 0,
+    "end_seconds": 59.077
+  },
+  "measurement": {
+    "sample_peak": 0.11222,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

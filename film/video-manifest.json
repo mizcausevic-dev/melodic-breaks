@@ -1,0 +1,26 @@
+{
+  "title": "Melodic Breaks",
+  "study": "mb01",
+  "bpm": 130,
+  "source_audio": "preview/melodic-breaks-simple-synth-preview.mp3",
+  "source_audio_sha256": "2bb14631d814fbb8e575c4ace46f39597f2cec01a31de11cc1a6bdbe23b3ab3f",
+  "source_midi": "midi/mb01-coastal-arc/mb01-coastal-arc-combined.mid",
+  "source_midi_sha256": "31aa282ce4eebad6f567a0494c8eb0ff754e184e3e24782b3e9f3a4ee8a48e41",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "6c103d6a0c74b37d1dacedf267af177c20b554315fb2597546a4c62d17d1a1d6",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "f3a14998bc578a02ec64618663646532109239bfbf3fbbad1f3b162b54457d5e",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "6424ad0e42aac208a0718be7677eabe51d59b680cc58b98b0480386c3fb67e99",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
