@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/melodic-breaks-midi.zip",
-      "bytes": 28869,
-      "sha256": "c30e7d05d2135a6580f25af05e799d4eef2367e292c8b39c03a9f31915ac3619"
+      "bytes": 31019,
+      "sha256": "d9af01679fb2e9443654d7484b3799c9851e57e3eabbffa74c68591128871de0"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9455,
-      "sha256": "22a6b739b10df7951ed065968aef08b9a5573187245684cafa160229f9f9b504"
+      "bytes": 9645,
+      "sha256": "69ff7a312841bf91ae29d0e747a03975a7a1c0ecdfc1842bdb64b6daf30a4bf1"
     },
     {
       "path": "midi/mb01-coastal-arc/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "38c7d7366dc1f25c58f094cdfa204868928e8c36bb5cf88a8f50a5a0478312a9"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/melodic-breaks-simple-synth-preview.mp3",
       "bytes": 1431345,
       "sha256": "2bb14631d814fbb8e575c4ace46f39597f2cec01a31de11cc1a6bdbe23b3ab3f"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3868,
-      "sha256": "dfdb652f8e1eaccaf168b3512e496a6a7d5578455375bc74110788b3d2b23bb2"
+      "bytes": 3983,
+      "sha256": "efe27fd74a638e6279490489483209e199e8cd6df1dbc15b71c275c606da1239"
     },
     {
       "path": "social/instagram/caption.txt",
